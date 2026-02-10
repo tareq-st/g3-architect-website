@@ -25,13 +25,23 @@
 .navbar{
     justify-content: space-between;
 }
+.brand{
+    font-weight: bold;
+    font-size: 3rem;
+}
+.nav-links{
+ align-items: center;
+}
 .nav-links a{
    text-decoration: none;
    font-weight: 500;
-   
 }
 .nav-item{
     list-style: none;
       margin-right:30px;
       
+}
+.navbar,.banner{
+    max-width: 1440px;
+    margin: 0 auto;
 }
