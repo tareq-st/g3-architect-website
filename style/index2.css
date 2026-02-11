@@ -1,0 +1,17 @@
+.header{
+    background-color: burlywood;
+    max-width: 1440px;
+}
+.first {
+    display: flex;
+   
+}
+.first a{
+text-decoration: none;
+}
+.items{
+margin: 0 auto;
+ /* text-align: center; */
+    align-items: center;
+    display: flex;
+}
